@@ -126,7 +126,7 @@ El comando git merge nos permite crear un nuevo commit con la combinación de do
 git merge "cualquier otra rama"
 ```
 
-### Resolución de conflictos al hacer un Merge
+### Resolución de conflictos al hacer un Mrge
 
 Git nunca borra nada a menos que se lo indiquemos. Cuando usamos los comandos git merge o git checkout estamos cambiando de rama pero creando un nuevo commit, no borrando ramas ni commits ( recuerda que puedes borrar commits con `git reset` / `git branch -d`)
 
