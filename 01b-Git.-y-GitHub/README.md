@@ -81,10 +81,10 @@ Recuerda que Git está optimizado para trabajar en equipo, por lo tanto, debemos
 
 ```shell
 git config --global user.name "tu nombre"
-git config --global user.eail "tu@eail.com"
+git config --global user.eail "tu@email.com"
 ```
 
-Existen muchas otras configuraciones de Git que puedes encntrar en el comando git config --list (o solo git config para ver una explicación más detallada)
+Existen muchas otras configuraciones de Git que puedes encontrar en el comando git config --list (o solo git config para ver una explicación más detallada)
 
 ## Analizar cambios en los archivos de tu proyecto
 
